@@ -2,5 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-html, body, #__next { height: 100%; }
-body { @apply bg-gray-50 text-gray-800; }
+html, body, #__next {
+  height: 100%;
+}
+body {
+  @apply bg-gray-50 text-gray-800;
+}
